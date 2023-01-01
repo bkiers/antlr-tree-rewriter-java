@@ -4,9 +4,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>nl.big-o</groupId>
-  <artifactId>antlr-tree-rewriter</artifactId>
+  <artifactId>atr</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.4</version>
+  <version>1.0.5</version>
   <name>ANTLR Tree Rewriter</name>
   <description>
     Version 4 of ANTLR produces parse trees (contrary to abstract syntax trees). Depending
