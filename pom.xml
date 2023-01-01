@@ -35,6 +35,12 @@
       <distribution>repo</distribution>
     </license>
   </licenses>
+  <scm>
+    <url>https://github.com/bkiers/antlr-tree-rewriter-java</url>
+    <connection>scm:git:git://github.com/bkiers/antlr-tree-rewriter-java.git</connection>
+    <developerConnection>scm:git:git@github.com:bkiers/antlr-tree-rewriter-java.git</developerConnection>
+    <tag>HEAD</tag>
+  </scm>
   <distributionManagement>
     <repository>
       <id>github</id>
