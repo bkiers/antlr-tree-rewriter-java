@@ -1,0 +1,2 @@
+ANTLR Tree Rewriter; a tool to compact/rewrite ANTLR generated parse trees
+Copyright (c) 2022 by Bart Kiers, bart@big-o.nl
