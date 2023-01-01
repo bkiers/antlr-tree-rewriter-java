@@ -7,7 +7,7 @@
   <groupId>nl.big-o</groupId>
   <artifactId>atr</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.8-SNAPSHOT</version>
+  <version>1.0.8</version>
   <name>ANTLR Tree Rewriter</name>
   <description>
     Version 4 of ANTLR produces parse trees (contrary to abstract syntax trees). Depending
