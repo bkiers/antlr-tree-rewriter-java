@@ -19,11 +19,20 @@ possibility to serialize the parse tree to JSON (and the other way around).
 Maven
 
 ```xml
-<dependency>
-  <groupId>nl.big-o</groupId>
-  <artifactId>atr</artifactId>
-  <version>1.0.6</version>
-</dependency> 
+<repositories>
+  <repository>
+    <id>jitpack.io</id>
+    <url>https://jitpack.io</url>
+  </repository>
+</repositories>
+
+<dependencies>
+  <dependency>
+    <groupId>com.github.bkiers</groupId>
+    <artifactId>antlr-tree-rewriter-java</artifactId>
+    <version>v1.0.7</version>
+  </dependency>
+</dependencies>
 ```
 
 ### Example

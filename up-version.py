@@ -8,7 +8,7 @@ if len(sys.argv) != 2:
 
 files = {
     './pom.xml': r'(?<=<version>).*?(?=</version>)',
-    './README.md': r'(?<=<version>).*?(?=</version>)'
+    './README.md': r'(?<=<version>v).*?(?=</version>)'
 }
 
 for filename, pattern in files.items():
