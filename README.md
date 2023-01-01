@@ -21,8 +21,8 @@ Maven
 ```xml
 <dependency>
   <groupId>nl.big-o</groupId>
-  <artifactId>antlr-tree-rewriter</artifactId>
-  <version>1.0.5</version>
+  <artifactId>atr</artifactId>
+  <version>1.0.6</version>
 </dependency> 
 ```
 

@@ -6,7 +6,7 @@
   <groupId>nl.big-o</groupId>
   <artifactId>atr</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.5</version>
+  <version>1.0.6</version>
   <name>ANTLR Tree Rewriter</name>
   <description>
     Version 4 of ANTLR produces parse trees (contrary to abstract syntax trees). Depending
@@ -14,7 +14,7 @@
     library might help compact the parse tree and adds the possibility to serialize the
     parse tree to JSON (and the other way around).
   </description>
-  <url>https://github.com/bkiers/antlr-tree-rewriter</url>
+  <url>https://github.com/bkiers/antlr-tree-rewriter-java</url>
   <inceptionYear>2022</inceptionYear>
   <developers>
     <developer>
@@ -39,7 +39,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/bkiers/antlr-tree-rewriter</url>
+      <url>https://maven.pkg.github.com/bkiers/antlr-tree-rewriter-java</url>
     </repository>
   </distributionManagement>
   <properties>
